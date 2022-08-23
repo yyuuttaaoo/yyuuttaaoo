@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [iLogtail](alibaba/ilogtail) project.
+- 🔭 I’m currently working on [iLogtail](https://github.com/alibaba/ilogtail) project.
+- 💬 Ask me about how it works and how to use it [here](https://github.com/alibaba/ilogtail/discussions).
+ 
 <!--
 **yyuuttaaoo/yyuuttaaoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
